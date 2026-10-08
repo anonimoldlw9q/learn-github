@@ -1,5 +1,5 @@
 
-def message():
-    print("Olá, github")
+def display_message(message):
+    print(message)
 
-message()
+message("Olá, github")
