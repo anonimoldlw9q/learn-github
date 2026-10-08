@@ -1,1 +1,5 @@
-print("Olá, Github!")
+
+def message():
+    print("Olá, github")
+
+message()
