@@ -2,4 +2,4 @@
 def display_message(message):
     print(message)
 
-message("Olá, github")
+display_message("Olá, github")
